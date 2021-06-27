@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Translating Digital Health into Radiation Oncology (RO)'
 
 content:
   # Page type to display. E.g. project.
@@ -27,9 +27,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: Patient-generated Data
     tag: Deep Learning
-  - name: Other
+  - name: Clinician-recorded Data
+    tag: Demo
+  - name: High-dimensional Data
+    tag: Demo
+  - name: Augmenting RO Routine Care with Real-time Data
+    tag: Demo
+  - name: Rethinking Palliative RT
     tag: Demo
 
 design:

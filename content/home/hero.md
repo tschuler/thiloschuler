@@ -1,4 +1,5 @@
 ---
+active: false
 widget: hero
 headless: true
 weight: 10
@@ -21,7 +22,6 @@ design:
 advanced:
   css_class: fullscreen
 ---
-
 **The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
 
 **Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
