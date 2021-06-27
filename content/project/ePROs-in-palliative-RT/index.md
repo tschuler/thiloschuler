@@ -9,10 +9,14 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/th1loz
+links:
+- name: Custom Link
+  url: http://example.org
 slides: example
 summary: Project to establish routinely-collected electronic patient-reported outcomes (ePROs) as a component to advance the care of patients receiving palliative radiotherapy (RT).
 tags:
-- Patient-generated Data, Rethinking Palliative RT
+- 'Patient-generated Data'
+- 'Rethinking Palliative RT'
 title: ePROs in Palliative Radiotherapy
 url_code: ""
 url_pdf: ""

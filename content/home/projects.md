@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
 title: Projects
 subtitle: 'Translating Digital Health into Radiation Oncology (RO)'
@@ -28,15 +28,15 @@ content:
   - name: All
     tag: '*'
   - name: Patient-generated Data
-    tag: Deep Learning
+    tag: Patient-generated Data
   - name: Clinician-recorded Data
-    tag: Demo
+    tag: Clinician-recorded Data
   - name: High-dimensional Data
-    tag: Demo
+    tag: High-dimensional Data
   - name: Augmenting RO Routine Care with Real-time Data
-    tag: Demo
+    tag: Augmenting RO Routine Care with Real-time Data
   - name: Rethinking Palliative RT
-    tag: Demo
+    tag: 'Rethinking Palliative RT'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

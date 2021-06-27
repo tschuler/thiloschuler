@@ -1,17 +1,17 @@
 ---
-bio: My research interests include Digital Health, routine care translation, patient-generated data and technology-enabled approaches in Genitourinary and Palliative Radiation Oncology.
+bio: My research interests include digital health, routine care translation, patient-generated data and digitally-enhanced approaches in Genitourinary and Palliative Radiation Oncology.
 education:
   courses:
   - course: PhD candidate in Clinical Informatics
     institution: Australian Institute of Health Innovation
     year: ongoing
-  - course: Master of in Health informatics
+  - course: Master of Health Informatics
     institution: Central Queensland University
     year: 2009
   - course: Doctor of Medicine
     institution: University of Freiburg, Germany
     year: 2008
-email: ""
+email: "thilo.schuler@health.nsw.gov.au"
 highlight_name: false
 interests:
 - Digital Health
@@ -19,13 +19,15 @@ interests:
 - Data-driven Routine Care
 - Palliative Radiotherapy
 organizations:
-- name: Northern Sydney Cancer Centre
+- name: Northern Sydney Cancer Centre, Royal North Shore Hospital
   url: https://www.nslhd.health.nsw.gov.au/Cancer/Pages/default.aspx
+- name: Australian Institute of Health Innovation
+  url: https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation/aihi-research-centres/health-informatics
 role: Radiation Oncology Doctor
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: "mailto:thilo.schuler@health.nsw.gov.au"
 - display:
     header: true
   icon: twitter
@@ -45,8 +47,8 @@ superuser: true
 title: Thilo Schuler MD
 ---
 
-Thilo Schuler is a Radiation Oncology doctor in his final year of advanced training at the Northern Sydney Cancer Centre. He is also undertaking a PhD at the Centre for Health Informatics located in Macquarie University's Australian Instutute of Helath Innovation. His PhD supervisors are Prof Enrico Coiera, Prof Thomas Eade and A/Prof Blanca Gallego.
+Thilo Schuler is a Radiation Oncology doctor in his final year of advanced training at the Northern Sydney Cancer Centre. He is also undertaking a PhD at the Centre for Health Informatics located in the Australian Institute of Health Innovation of Macquarie University. His PhD supervisors are Prof Enrico Coiera, Prof Thomas Eade and A/Prof Blanca Gallego.
 
-His research interests include Digital Health with a focus on routine care translation, patient-generated data and technology-enabled approaches in Genitourinary and Palliative Radiation Oncology. 
+His research interests include digital health with a focus on routine care translation, patient-generated data and digitally-enhanced approaches in Genitourinary and Palliative Radiation Oncology. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
