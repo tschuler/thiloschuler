@@ -10,9 +10,11 @@ links:
   name: Follow
   url: https://twitter.com/th1loz
 links:
-- name: Custom Link
-  url: http://example.org
-slides: example
+- name: Main Publication
+  url: https://www.researchgate.net/publication/347335096_Introducing_Computed_Tomography_Simulation-Free_and_Electronic_Patient-Reported_Outcomes-Monitored_Palliative_Radiation_Therapy_into_Routine_Care_Clinical_Outcomes_and_Implementation_Experience
+- name: Letter-to-editor
+  url: https://www.researchgate.net/publication/342071760_Patient-reported_outcome_measures_PROMs_in_palliative_radiotherapy
+# slides: example
 summary: Project to establish routinely-collected electronic patient-reported outcomes (ePROs) as a component to advance the care of patients receiving palliative radiotherapy (RT).
 tags:
 - 'Patient-generated Data'

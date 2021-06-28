@@ -1,5 +1,5 @@
 ---
-bio: My research interests include digital health, routine care translation, patient-generated data and digitally-enhanced approaches in Genitourinary and Palliative Radiation Oncology.
+bio: My research interests evolve around Digital Health with a focus on patient-generated data and routine care translation in particular around digitally-enhanced approaches in Genitourinary and Palliative Radiation Oncology.
 education:
   courses:
   - course: PhD candidate in Clinical Informatics
@@ -49,6 +49,6 @@ title: Thilo Schuler MD
 
 Thilo Schuler is a Radiation Oncology doctor in his final year of advanced training at the Northern Sydney Cancer Centre. He is also undertaking a PhD at the Centre for Health Informatics located in the Australian Institute of Health Innovation of Macquarie University. His PhD supervisors are Prof Enrico Coiera, Prof Thomas Eade and A/Prof Blanca Gallego.
 
-His research interests include digital health with a focus on routine care translation, patient-generated data and digitally-enhanced approaches in Genitourinary and Palliative Radiation Oncology. 
+His research interests evolve around Digital Health with a focus on patient-generated data and routine care translation in particular around digitally-enhanced approaches in Genitourinary and Palliative Radiation Oncology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
