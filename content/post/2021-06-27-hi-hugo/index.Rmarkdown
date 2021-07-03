@@ -2,6 +2,7 @@
 title: Hi Hugo
 author: Simon Urbanek
 date: '2021-06-27'
+draft: true
 slug: hi-hugo
 categories: []
 tags: []
