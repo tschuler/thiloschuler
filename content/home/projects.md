@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Projects
-subtitle: 'Translating Digital Health into Radiation Oncology (RO)'
+subtitle: 'Translating Digital Health into (Radiation) Oncology'
 
 content:
   # Page type to display. E.g. project.
@@ -33,9 +33,9 @@ content:
     tag: Clinician-recorded Data
   - name: High-dimensional Data
     tag: High-dimensional Data
-  - name: Augmenting RO Routine Care with Real-time Data
+  - name: Data-driven Routine Radiation Oncology Practice (jawDR2OP)
     tag: Augmenting RO Routine Care with Real-time Data
-  - name: Rethinking Palliative RT
+  - name: Digitally-enabled Interdisciplinary Supportive Care in Oncology (DISCO)
     tag: 'Rethinking Palliative RT'
 
 design:
