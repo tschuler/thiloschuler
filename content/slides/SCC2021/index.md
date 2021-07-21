@@ -57,9 +57,9 @@ Sydney Cancer Conference 2021
 <div class="container smaller-font">
 
 <div class="col" data-markdown>
-- Community services in cancer care
-  - important 👍, but
-  - underutilised 😞
+Community services in cancer care
+- important 👍, but
+- underutilised 😞
 
 </div>
 
@@ -105,14 +105,14 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 <div class="container smaller-font spacer-bottom">
 
 <div class="col" data-markdown>
-- **6 months ePRO screening**
-  - Aug 2020 - Jan 2021
-  - 366 patients 
-  - 88% response rate
-- **Quitline referral**
-  - 24 (6.6%) smokers
-  - 9 (38%) accepted referral
-  - **Over 100% increase** of NSLHD rates in 2018
+**6 months ePRO screening**
+- Aug 2020 - Jan 2021
+- 366 patients 
+- 88% response rate
+**Quitline referral**
+- 24 (6.6%) smokers
+- 9 (38%) accepted referral
+- **Over 100% increase** of NSLHD rates in 2018
 
 </div>
 
@@ -132,10 +132,10 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 <div class="container smaller-font">
 
 <div class="col" data-markdown>
-- **Canteen referral**
-  - 85 (23%) of cancer patients had children aged 0-25yrs
-  - 18 (21% of eligible) accepted referral
-  - Annualised **350% increase** vs 2018.
+**Canteen referral**
+- 85 (23%) of cancer patients had children aged 0-25yrs
+- 18 (21% of eligible) accepted referral
+- Annualised **350% increase** vs 2018.
 
 </div>
 
@@ -156,10 +156,10 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 <div class="container smaller-font">
 
 <div class="col" data-markdown>
-- **Clinical staff survey**
-  - Response rate 34 of 77 (44%)
-  - 100% ➡️ overall patient benefit
-  - 97% ➡️ emotional and/or professoional comfort for clinicians
+**Clinical staff survey**
+- Response rate 34 of 77 (44%)
+- 100% ➡️ overall patient benefit
+- 97% ➡️ emotional and/or professoional comfort for clinicians
 
 </div>
 
