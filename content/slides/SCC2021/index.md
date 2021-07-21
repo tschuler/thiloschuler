@@ -100,7 +100,7 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 
 ---
 
-## Results (1/3)
+## Results (1/4)
 
 <div class="container smaller-font spacer-bottom">
 
@@ -109,6 +109,24 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 - Aug 2020 - Jan 2021
 - 366 patients 
 - 88% response rate
+
+</div>
+
+<div class="col">
+<ul>  
+<li class="fragment pointy">TODO: proportion response (?pie chart) </li>  
+</ul>  
+</div>
+
+</div>
+
+---
+
+## Results (2/4)
+
+<div class="container smaller-font spacer-bottom">
+
+<div class="col" data-markdown>
 **Quitline referral**
 - 24 (6.6%) smokers
 - 9 (38%) accepted referral
@@ -118,7 +136,6 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 
 <div class="col">
 <ul>  
-<li class="fragment pointy">TODO: proportion response (?pie chart) </li>  
 <li class="fragment pointy">TODO bargraphs smokers vs accepters for ePRO at NSCC vs corresponding 2018 at NSLHD </li>  
 </ul>  
 </div>
@@ -127,7 +144,7 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 
 ---
 
-## Results (2/3)
+## Results (3/4)
 
 <div class="container smaller-font">
 
@@ -151,7 +168,7 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 
 ---
 
-## Results (3/3)
+## Results (4/4)
 
 <div class="container smaller-font">
 
