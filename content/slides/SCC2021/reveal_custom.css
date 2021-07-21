@@ -1,0 +1,44 @@
+.slides::after {
+background-image: url('precise_nscc_canteen_logo_86.png');
+    background-size: 452px 86px;
+    background-repeat:no-repeat;
+    display: inline-block;
+    width: 452px; 
+    height: 86px;
+    content:"";
+    bottom:0;
+    margin-left:-226px;
+    position: absolute;
+}
+/*
+body  {
+    background-image: url(unsw-banner.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-color:red;
+}
+body {
+  background-image: url('Precise_NSCC_Mono-01.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 20% 20%;
+  }
+
+{
+background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: 3% 96%;
+}
+*/
+.slides .footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0.3em;
+  text-align: center;
+}
+

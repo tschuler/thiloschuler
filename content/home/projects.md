@@ -33,7 +33,7 @@ content:
     tag: Clinician-recorded Data
   - name: High-dimensional Data
     tag: High-dimensional Data
-  - name: Data-driven Routine Radiation Oncology Practice (jawDR2OP)
+  - name: Data-driven Routine Radiation Oncology Practice (jawDROP)
     tag: Augmenting RO Routine Care with Real-time Data
   - name: Digitally-enabled Interdisciplinary Supportive Care in Oncology (DISCO)
     tag: 'Rethinking Palliative RT'
