@@ -197,7 +197,7 @@ Systematic and sustainable referral to Quitline and Canteen (Implementation Scie
 
 <div class="smaller-font">
 
-Succesful routine care translation with benefits for patients and clinicians:
+Succesful routine care translation 💪 with benefits for patients and clinicians:
 - Systematic ePRO-based screening
 - Co-design strategy
 - Plans to apply this model more broadly (other services incl internal pathways)
