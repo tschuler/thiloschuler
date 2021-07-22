@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Projects
-subtitle: 'Translating Digital Health into (Radiation) Oncology'
+subtitle: 'Filter by data type involved or two main translation themes (jawDROP & DISCO).'
 
 content:
   # Page type to display. E.g. project.
