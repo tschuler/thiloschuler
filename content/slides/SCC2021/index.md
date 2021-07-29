@@ -119,7 +119,7 @@ Optimising community service use with ePRO-based screening during routine Radiat
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
           background-size="86px 240px" 
-          background-position="top 10px right 20px" >}}
+          background-position="top 10px right 40px" >}}
 
 ### Background
 
@@ -155,7 +155,7 @@ Reasons
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
           background-size="86px 240px" 
-          background-position="top 10px right 20px" >}}
+          background-position="top 10px right 40px" >}}
 
 ### Aim & Methods
 
@@ -185,7 +185,7 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
           background-size="86px 240px" 
-          background-position="top 10px right 20px" >}}
+          background-position="top 10px right 40px" >}}
           
 ### Results
 
@@ -231,7 +231,7 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
           background-size="86px 240px" 
-          background-position="top 10px right 20px" >}}
+          background-position="top 10px right 40px" >}}
 
 ### Conclusion & Future
 
