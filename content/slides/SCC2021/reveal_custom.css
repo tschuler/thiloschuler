@@ -1,5 +1,5 @@
 .slides::after {
-background-image: url('precise_nscc_canteen_logo_86.png');
+/*background-image: url('precise_nscc_canteen_logo_86.png');
     background-size: 452px 86px;
     background-repeat:no-repeat;
     display: inline-block;
@@ -10,7 +10,6 @@ background-image: url('precise_nscc_canteen_logo_86.png');
     margin-left:-226px;
     position: absolute;
 }
-/*
 body  {
     background-image: url(unsw-banner.png);
     background-size: 100%;
