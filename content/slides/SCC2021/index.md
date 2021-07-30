@@ -12,8 +12,8 @@ slides:
   theme: white
   reveal_options:
     center: true  
-    width: 1920
-    height: 1080
+    #width: 1920
+    #height: 1080
     margin: 0.04
     controls: true 
     controls_layout: "bottom_right"
@@ -101,6 +101,9 @@ title: Slides
 
  <div class="header-print" style = "position: absolute; top: 0%; right: 0%;"><div><img src="nscc_canteen_vertical_logo_86.png"></div></div> -->
 
+{{< slide background-image="group_bitmoji.png" 
+          background-size="1350px 450px" 
+          background-position="bottom 10px center" >}}
 
 <img class="center" src="slides_top_logos.png">
 
@@ -108,13 +111,12 @@ title: Slides
 Optimising community service use with ePRO-based screening during routine Radiation Oncology care
 
 
-<div class="spacer-top" style="font-size:0.6em;" data-markdown>
+<div class="spacer-top" style="font-size:0.6em; margin-bottom:450px;" data-markdown>
 [Virtual Poster]() by [NSCC]() & [Canteen]() Collaboration at [Sydney Cancer Conference 2021]()
 
 </div>
 
-<div><img class="center"  src="group_bitmoji.png"></div>
-
+<!--<div><img class="center"  src="group_bitmoji.png"></div>-->
 ---
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
@@ -144,7 +146,7 @@ Community services in cancer care
 
 </div>
 
-<div class="smaller-font spacer-top" data-markdown>
+<div class="smaller-font" data-markdown>
 Reasons
 - Time constraints of clinical reality ⏱️  
 - Quickly waning effect of traditional referrer info campaigns 📉  
@@ -172,6 +174,7 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 - Added two extra questions regarding **smoking status** and **age of children**
 - **Co-designed** information and referral approach
 - Key role: **Patient Care Radiation Therapist (PCRT)** providing personalised referral offer
+- Evaluation: Impact on referral rates & clinician survey
 </div>
 
 
