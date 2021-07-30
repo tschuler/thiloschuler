@@ -172,6 +172,7 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 - Added two extra questions regarding **smoking status** and **age of children**
 - **Co-designed** information and referral approach
 - Key role: **Patient Care Radiation Therapist (PCRT)** providing personalised referral offer
+- Evaluation: Impact on referral rates & clinician survey
 </div>
 
 
