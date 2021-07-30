@@ -11,7 +11,7 @@ slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   reveal_options:
-    center: false  
+    center: true  
     width: 1920
     height: 1080
     margin: 0.04
