@@ -182,7 +182,7 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 - Screening via routine **electronic patient-reported outcomes (ePRO) survey** for all new patients
 - Added two extra questions regarding **smoking status** and **age of children**
 - **Co-designed** information and referral approach
-- Key role: **Patient Care Radiation Therapist (PCRT)** providing emotional support incl service referral offer
+- Key role: **Patient Care Radiation Therapist (PCRT)** providing practical and emotional support incl service referral offer
 - **Evaluation**: Pre/Post analysis of referral rates and clinical staff survey
 </div>
 
