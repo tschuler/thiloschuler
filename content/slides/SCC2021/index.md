@@ -112,7 +112,7 @@ Optimising community service use with ePRO-based screening during routine Radiat
 
 
 <div class="spacer-top" style="font-size:0.6em;" data-markdown>
-A [Northern Sydney Cancer Centre](https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx) & [Canteen](https://www.canteen.org.au/) Collaboration  
+A [Northern Sydney Cancer Centre](https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx) & [Canteen](https://www.canteen.org.au/) Collaboration   
 Presented at [Sydney Cancer Conference 2021](https://www.sydney.edu.au/cancer-research-network/sydney-cancer-conference-2021.html)  
 </div>
 <div class="spacer-top" style="font-size:0.6em; margin-bottom:600px;" data-markdown>
@@ -216,7 +216,7 @@ Image Credit: [WHO](https://www.who.int/tdr/capacity/strengthening/ir-training/e
 **Quitline referral** 🚭
 - 24 (6.6%) smokers
 - 9 (38%) accepted referral
-- **Over 100% increase** of NSLHD rates in 2018
+- **Over 100% increase** vs whole NSLHD rates in 2018
 </div>
 
 </div>
