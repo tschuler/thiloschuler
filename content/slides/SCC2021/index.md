@@ -101,9 +101,7 @@ title: Slides
 
  <div class="header-print" style = "position: absolute; top: 0%; right: 0%;"><div><img src="nscc_canteen_vertical_logo_86.png"></div></div> -->
 
-{{< slide background-image="group_bitmoji.png" 
-          background-size="1350px 450px" 
-          background-position="bottom center" >}}
+<section>
 
 <img class="center" src="slides_top_logos.png">
 
@@ -111,7 +109,7 @@ title: Slides
 Optimising community service use with ePRO-based screening during routine Radiation Oncology care
 
 
-<div class="spacer-top" style="font-size:0.6em; margin-bottom:600px;">
+<div class="spacer-top" style="font-size:0.6em;">
 <p>
 A <a href="https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx">Northern Sydney Cancer Centre</a> and <a href="https://www.canteen.org.au/">Canteen</a> Collaboration<br>
 Presented at <a href="https://www.sydney.edu.au/cancer-research-network/sydney-cancer-conference-2021.html">Sydney Cancer Conference 2021</a>
@@ -120,9 +118,9 @@ Presented at <a href="https://www.sydney.edu.au/cancer-research-network/sydney-c
 Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula Macleod, A/Prof Pandora Patterson, Prof Thomas Eade
 </p>
 </div>
+<div><img class="center" src="group_bitmoji2.png"></div>
+</section>
 
-<!--<div><img class="center"  src="group_bitmoji.png"></div>-->
----
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
           background-size="86px 240px" 
