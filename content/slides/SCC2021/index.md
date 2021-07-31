@@ -132,12 +132,12 @@ Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula
 
 <div class="container smaller-font">
 
-<div class="col" data-markdown>
-**Community services in cancer care are:**  
-<div data-markdown>
-👍 important  
-*...but...*  
+<div class="col">
+<p style="font-weight: bold;">Community services in cancer care are:<p>
+<div style="padding-left: 20px;"><p>
+👍 important, <span style="text-decoration: underline;">but</span><br>
 😞 underutilised  
+</p>
 </div>
 </div>
 
@@ -154,12 +154,14 @@ Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula
 
 </div>
 
-<div class="smaller-font" data-markdown>
-**Reasons include:**
-<div style="padding-left: 100px;" data-markdown>
-⏱️ Time constraints of clinical reality   
-📉 Quickly waning effect of traditional referrer info campaigns   
-🤷 Insufficient knowledge → no/unconvincing recommendation to patient   
+<div class="smaller-font">
+<p style="font-weight: bold;">Reasons include:</p>
+<div style="padding-left: 20px;">
+<p>
+⏱️ Time constraints of clinical reality<br>
+📉 Quickly waning effect of traditional referrer info campaigns<br>
+🤷 Insufficient knowledge → no/unconvincing recommendation to patient<br>
+</p>
 </div>
 </div>
 
