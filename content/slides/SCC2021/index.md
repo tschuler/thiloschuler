@@ -112,7 +112,7 @@ Optimising community service use with ePRO-based screening during routine Radiat
 
 
 <div class="spacer-top" style="font-size:0.6em;" data-markdown>
-A [Northern Sydney Cancer Centre](https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx) & [Canteen](https://www.canteen.org.au/) Collaboration   
+A [Northern Sydney Cancer Centre](https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx) & [Canteen](https://www.canteen.org.au/) Collaboration  <br/>
 Presented at [Sydney Cancer Conference 2021](https://www.sydney.edu.au/cancer-research-network/sydney-cancer-conference-2021.html)  
 </div>
 <div class="spacer-top" style="font-size:0.6em; margin-bottom:600px;" data-markdown>
