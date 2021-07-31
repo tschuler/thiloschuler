@@ -103,7 +103,7 @@ title: Slides
 
 {{< slide background-image="group_bitmoji.png" 
           background-size="1350px 450px" 
-          background-position="bottom 10px center" >}}
+          background-position="bottom center" >}}
 
 <img class="center" src="slides_top_logos.png">
 
@@ -111,9 +111,12 @@ title: Slides
 Optimising community service use with ePRO-based screening during routine Radiation Oncology care
 
 
-<div class="spacer-top" style="font-size:0.6em; margin-bottom:450px;" data-markdown>
-[Virtual Poster]() by [NSCC]() & [Canteen]() Collaboration at [Sydney Cancer Conference 2021]()
-
+<div class="spacer-top" style="font-size:0.6em;" data-markdown>
+A [Northern Sydney Cancer Centre](https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx) & [Canteen](https://www.canteen.org.au/) Collaboration  
+Presented at [Sydney Cancer Conference 2021](https://www.sydney.edu.au/cancer-research-network/sydney-cancer-conference-2021.html)  
+</div>
+<div class="spacer-top" style="font-size:0.6em; margin-bottom:600px;" data-markdown>
+Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula Macleod, A/Prof Pandora Patterson, Prof Thomas Eade
 </div>
 
 <!--<div><img class="center"  src="group_bitmoji.png"></div>-->
@@ -128,9 +131,12 @@ Optimising community service use with ePRO-based screening during routine Radiat
 <div class="container smaller-font">
 
 <div class="col" data-markdown>
-Community services in cancer care
-- important 👍, but...
-- ... underutilised 😞
+**Community services in cancer care are:**  
+<div data-markdown>
+👍 important  
+*...but...*  
+😞 underutilised  
+</div>
 </div>
 
 <!--<div class="col r-stack">
@@ -147,10 +153,12 @@ Community services in cancer care
 </div>
 
 <div class="smaller-font" data-markdown>
-Reasons
-- Time constraints of clinical reality ⏱️  
-- Quickly waning effect of traditional referrer info campaigns 📉  
-- Insufficient knowledge → no/unconvincing recommendation to patient 🤷  
+**Reasons include:**
+<div style="padding-left: 100px;" data-markdown>
+⏱️ Time constraints of clinical reality   
+📉 Quickly waning effect of traditional referrer info campaigns   
+🤷 Insufficient knowledge → no/unconvincing recommendation to patient   
+</div>
 </div>
 
 ---
@@ -161,7 +169,7 @@ Reasons
 
 ### Aim & Methods
 
-<div class="smaller-font"" data-markdown>
+<div class="smaller-font" data-markdown>
 Systematic and sustainable referral to Quitline and Canteen using an Implementation Science approach:  
 </div>
 
@@ -170,16 +178,18 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 <div class="container smaller-font">
 
 <div class="col" data-markdown>
-- Screening via routine **ePRO survey** to all new patients
+- Screening via routine **electronic patient-reported outcomes (ePRO) survey** for all new patients
 - Added two extra questions regarding **smoking status** and **age of children**
 - **Co-designed** information and referral approach
-- Key role: **Patient Care Radiation Therapist (PCRT)** providing personalised referral offer
-- Evaluation: Impact on referral rates & clinician survey
+- Key role: **Patient Care Radiation Therapist (PCRT)** providing emotinal support incl service referral offer
+- **Evaluation**: Pre/Post analysis of referral rates and clinical staff survey
 </div>
 
 
-<div class="col">
-<img style="margin-left: 100px;" src="ir_toolkit_identity_250_who.jpg">
+<div class="col" style="text-align: center; font-size: 0.4em;" data-markdown>
+<!--<img style="margin-left: 100px;" src="ir_toolkit_identity_250_who.jpg">-->
+![Implementation Research diagram](ir_toolkit_identity_250_who.jpg)
+Image Credit: [WHO](https://www.who.int/tdr/capacity/strengthening/ir-training/en/)
 </div>
 
 </div>
@@ -196,14 +206,14 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 <div class="container smaller-font">
 
 <div class="col" data-markdown>
-**6 months ePRO screening**
+**6 months ePRO screening** 📱
 - Aug 2020 - Jan 2021
 - 366 patients 
 - 88% response rate  
 </div>
 
 <div class="col" data-markdown>
-**Quitline referral**
+**Quitline referral** 🚭
 - 24 (6.6%) smokers
 - 9 (38%) accepted referral
 - **Over 100% increase** of NSLHD rates in 2018
@@ -214,14 +224,14 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 <div class="container smaller-font spacer-top">
 
 <div class="col" data-markdown>
-**Canteen referral**
+**Canteen referral** 👦🏽👧🏻
 - 85 (23%) of cancer patients had children aged 0-25yrs
 - 18 (21% of eligible) accepted referral
 - Annualised **350% increase** vs 2018.
 </div>
 
 <div class="col" data-markdown>
-**Clinical staff survey**
+**Clinical staff survey** 👂
 - Response rate 34 of 77 (44%)
 - 100% → overall patient benefit
 - 97% →  emotional and/or professional comfort for clinicians
@@ -240,7 +250,7 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 
 <div class="smaller-font" style="margin-bottom:40px;">
 
-Succesful routine care translation 💪 with benefits for patients and clinicians:
+Successful routine care translation 💪 with benefits for patients 🤒 and clinicians ⚕️  
 - Systematic ePRO-based screening
 - Co-design strategy including PCRT training
 - Plans to apply this model more broadly (other services incl internal pathways)
