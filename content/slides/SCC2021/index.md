@@ -121,7 +121,6 @@ Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula
 <div><img class="center" src="group_bitmoji2.png"></div>
 </section>
 
-
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
           background-size="86px 240px" 
           background-position="top 10px right 40px" >}}
@@ -183,7 +182,7 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 - Screening via routine **electronic patient-reported outcomes (ePRO) survey** for all new patients
 - Added two extra questions regarding **smoking status** and **age of children**
 - **Co-designed** information and referral approach
-- Key role: **Patient Care Radiation Therapist (PCRT)** providing emotinal support incl service referral offer
+- Key role: **Patient Care Radiation Therapist (PCRT)** providing emotional support incl service referral offer
 - **Evaluation**: Pre/Post analysis of referral rates and clinical staff survey
 </div>
 
