@@ -198,7 +198,7 @@ Image Credit: [WHO](https://www.who.int/tdr/capacity/strengthening/ir-training/e
 ---
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
-          background-size="86px 240px" 
+          background-size="5%" 
           background-position="top 10px right 40px" >}}
           
 ### Results
@@ -251,7 +251,7 @@ Image Credit: [WHO](https://www.who.int/tdr/capacity/strengthening/ir-training/e
 
 <div class="smaller-font" style="margin-bottom:40px;">
 
-Successful routine care translation 💪 with benefits for patients 🤒 and clinicians ⚕️  
+Successful routine care translation 💪 with benefits for patients 🤒 and clinicians⚕️  
 - Systematic ePRO-based screening
 - Co-design strategy including PCRT training
 - Plans to apply this model more broadly (other services incl internal pathways)
