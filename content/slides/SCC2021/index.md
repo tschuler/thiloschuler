@@ -122,7 +122,7 @@ Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula
 </section>
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
-          background-size="86px 240px" 
+          background-size="5%" 
           background-position="top 10px right 40px" >}}
 
 ### Background
@@ -165,7 +165,7 @@ Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula
 ---
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
-          background-size="86px 240px" 
+          background-size="5%" 
           background-position="top 10px right 40px" >}}
 
 ### Aim & Methods
@@ -244,7 +244,7 @@ Image Credit: [WHO](https://www.who.int/tdr/capacity/strengthening/ir-training/e
 ---
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
-          background-size="86px 240px" 
+          background-size="5%" 
           background-position="top 10px right 40px" >}}
 
 ### Conclusion & Future
