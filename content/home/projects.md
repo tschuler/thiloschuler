@@ -11,18 +11,16 @@ weight: 20
 
 title: Projects
 subtitle: 'Filter by **data type** involved or by the two main **digital health translational programs**.<br><br>
-Data types:</p>
-<ul>
-<li>Patient-generated Data (**PGD**)</li>
-<li>Clinician-recorded Data (**CRD**)</li>
-<li>High-dimensional Data (**HDD**)</li>
-</ul>
-<p>Translational programs:</p>
-<ul>
-<li>Data-driven Routine Radiation Oncology Practice (**jawDROP**)</li>
-<li>Digitally-enabled Interdisciplinary Supportive Care in Oncology (**DISCO**)</li>
-</ul>
-<p>Most projects built on the **RACER** digital health platform.'
+<ins>Data types:</ins><br>
+- Patient-generated Data (**PGD**)<br>
+- Clinician-recorded Data (**CRD**)<br>
+- High-dimensional Data (**HDD**)<br>
+<br>
+<ins>Translational programs:</ins><br>
+- Data-driven Routine Radiation Oncology Practice (**jawDROP**)<br>
+- Digitally-enabled Interdisciplinary Supportive Care in Oncology (**DISCO**)<br>
+<br>
+Most projects built on the **RACER** digital health platform.'
 
 
 content:
