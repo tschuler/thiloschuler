@@ -10,7 +10,20 @@ headless: true
 weight: 20
 
 title: Projects
-subtitle: 'Filter by data type involved or two main translation themes (jawDROP & DISCO).'
+subtitle: 'Filter by **data type** involved or by the two main **digital health translational programs**.<br><br>
+Data types:</p>
+<ul>
+<li>Patient-generated Data (**PGD**)</li>
+<li>Clinician-recorded Data (**CRD**)</li>
+<li>High-dimensional Data (**HDD**)</li>
+</ul>
+<p>Translational programs:</p>
+<ul>
+<li>Data-driven Routine Radiation Oncology Practice (**jawDROP**)</li>
+<li>Digitally-enabled Interdisciplinary Supportive Care in Oncology (**DISCO**)</li>
+</ul>
+<p>Most projects built on the **RACER** digital health platform.'
+
 
 content:
   # Page type to display. E.g. project.
@@ -27,16 +40,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Patient-generated Data
+  - name: PGD
     tag: Patient-generated Data
-  - name: Clinician-recorded Data
+  - name: CRD
     tag: Clinician-recorded Data
-  - name: High-dimensional Data
+  - name: HDD
     tag: High-dimensional Data
-  - name: Data-driven Routine Radiation Oncology Practice (jawDROP)
+  - name: jawDROP
     tag: Augmenting RO Routine Care with Real-time Data
-  - name: Digitally-enabled Interdisciplinary Supportive Care in Oncology (DISCO)
+  - name: DISCO
     tag: 'Rethinking Palliative RT'
+  - name: RACER
+    tag: 'RACER platform'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

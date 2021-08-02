@@ -4,11 +4,11 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
   eu, pulvinar tempor diam.
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city:
+  country: 
+  postcode:
+  region: 
+  street: 
 all_day: false
 authors: []
 date: "2021-09-09T08:00:00Z"
@@ -20,18 +20,14 @@ image:
   caption: 'Image credit: [**SCC2021**](https://www.sydney.edu.au/cancer-research-network/sydney-cancer-conference-2021.html)'
   focal_point: Right
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-location: Wowchemy HQ
+location: Online
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: SCC2021
-summary: Optimising community service use with ePRO-based screening during routine Radiation Oncology care 
+summary: A [Northern Sydney Cancer Centre]() & Canteen Collaboration
 tags: []
-title: Canteen & Quitline for All Relevant Patients
+title: Optimising community service use with ePRO-based screening during routine Radiation Oncology care 
 url_code: ""
 url_pdf: ""
 url_slides: ""
