@@ -68,6 +68,8 @@ title: Slides
   background-position: bottom 20px center, top center;
 }
 
+ul.space_list li { margin-bottom: 0.7em; }
+
 </style>
 
 <!--<style type="text/css">
@@ -178,19 +180,21 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 
 <div class="container smaller-font">
 
-<div class="col" data-markdown>
-- Screening via routine **electronic patient-reported outcomes (ePRO) survey** for all new patients
-- Added two extra questions regarding **smoking status** and **age of children**
-- **Co-designed** information and referral approach
-- Key role: **Patient Care Radiation Therapist (PCRT)** providing practical and emotional support incl service referral offer
-- **Evaluation**: Pre/Post analysis of referral rates and clinical staff survey
+<div class="col .spaced" style="font-size: 0.9em;}">
+<ul class="space_list">
+<li>Screening via routine <strong>electronic patient-reported outcomes (ePRO) survey</strong> for all new patients</li>
+<li>Added two extra questions regarding <strong>smoking status</strong> and <strong>age of children</strong></li>
+<li><strong>Co-designed</strong> information and referral approach</li>
+<li>Key role: <strong>Patient Care Radiation Therapist (PCRT)</strong> providing practical and emotional support incl service referral offer</li>
+<li><strong>Evaluation</strong>: Pre/Post analysis of referral rates and clinical staff survey</li>
+</ul>
 </div>
 
 
-<div class="col" style="text-align: center; font-size: 0.4em;" data-markdown>
-<!--<img style="margin-left: 100px;" src="ir_toolkit_identity_250_who.jpg">-->
-![Implementation Research diagram](ir_toolkit_identity_250_who.jpg)
-Image Credit: [WHO](https://www.who.int/tdr/capacity/strengthening/ir-training/en/)
+<div class="col" style="text-align: center; font-size: 0.4em;">
+<img style="width: 70%;" src="ir_toolkit_identity_600_who.png">
+
+<p>Image Credit: <a href="https://www.who.int/tdr/capacity/strengthening/ir-training/en/">WHO</a></p>
 </div>
 
 </div>
@@ -209,8 +213,9 @@ Image Credit: [WHO](https://www.who.int/tdr/capacity/strengthening/ir-training/e
 <div class="col" data-markdown>
 **6 months ePRO screening** 📱
 - Aug 2020 - Jan 2021
-- 366 patients 
-- 88% response rate  
+- total ??? new patients seen
+- Screening ePRO sent to 366 patients (??% coverage)
+- ?? (88%) responded
 </div>
 
 <div class="col" data-markdown>
@@ -227,7 +232,7 @@ Image Credit: [WHO](https://www.who.int/tdr/capacity/strengthening/ir-training/e
 <div class="col" data-markdown>
 **Canteen referral** 👦🏽👧🏻
 - 85 (23%) of cancer patients had children aged 0-25yrs
-- 18 (21% of eligible) accepted referral
+- 18 (21%) accepted referral
 - Annualised **350% increase** vs 2018.
 </div>
 
