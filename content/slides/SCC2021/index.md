@@ -116,11 +116,11 @@ Optimising community service use with ePRO-based screening during routine Radiat
 A <a href="https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx">Northern Sydney Cancer Centre</a> and <a href="https://www.canteen.org.au/">Canteen</a> Collaboration<br>
 Presented at <a href="https://www.sydney.edu.au/cancer-research-network/sydney-cancer-conference-2021.html">Sydney Cancer Conference 2021</a>
 </p>
-<p>
+<p style="margin-bottom: 200px;">
 Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula Macleod, A/Prof Pandora Patterson, Prof Thomas Eade
 </p>
 </div>
-<div><img class="center" src="group_bitmoji2.png"></div>
+<!--<div><img class="center" src="group_bitmoji2.png"></div>-->
 </section>
 
 {{< slide background-image="nscc_canteen_vertical_logo_86.png" 
@@ -148,7 +148,7 @@ Dr Thilo Schuler, Ms Claire King, A/Prof Michael Back, Ms Tamara Doria, Ms Paula
 </div>-->
 
 <div class="col">
-<img src="bar_chart_placeholder.png">
+<img src="Referral_rates_graph2.png">
 </div>
 
 </div>

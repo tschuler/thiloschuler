@@ -8,7 +8,7 @@ education:
   - course: Master of Health Informatics
     institution: Central Queensland University
     year: 2009
-  - course: Doctor of Medicine
+  - course: Medicine
     institution: University of Freiburg, Germany
     year: 2008
 email: "thilo.schuler@health.nsw.gov.au"

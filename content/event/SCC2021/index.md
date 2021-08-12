@@ -25,7 +25,7 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: SCC2021
-summary: A [Northern Sydney Cancer Centre]() & Canteen Collaboration
+summary: Presentation at [Sydney Cancer Conference 2021](https://www.sydney.edu.au/cancer-research-network/sydney-cancer-conference-2021.html) by [Northern Sydney Cancer Centre](https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx) and  [Canteen](https://www.canteen.org.au/")
 tags: []
 title: Optimising community service use with ePRO-based screening during routine Radiation Oncology care 
 url_code: ""
