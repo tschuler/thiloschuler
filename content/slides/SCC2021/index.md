@@ -213,9 +213,9 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 <div class="col" data-markdown>
 **6 months ePRO screening** 📱
 - Aug 2020 - Jan 2021
-- total ??? new patients seen
-- Screening ePRO sent to 366 patients (??% coverage)
-- ?? (88%) responded
+- Total 568 new patients seen
+- Screening ePRO sent to 418 patients (74% coverage)
+- 329 (87%) responded
 </div>
 
 <div class="col" data-markdown>
@@ -233,7 +233,7 @@ Systematic and sustainable referral to Quitline and Canteen using an Implementat
 **Canteen referral** 👦🏽👧🏻
 - 85 (23%) of cancer patients had children aged 0-25yrs
 - 18 (21%) accepted referral
-- Annualised **350% increase** vs 2018.
+- Annualised **350% increase** vs 2018
 </div>
 
 <div class="col" data-markdown>
