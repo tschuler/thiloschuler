@@ -39,13 +39,13 @@ content:
   - name: All
     tag: '*'
   - name: PGD
-    tag: Patient-generated Data
+    tag: 'Patient-generated Data'
   - name: CRD
-    tag: Clinician-recorded Data
+    tag: 'Clinician-recorded Data'
   - name: HDD
-    tag: High-dimensional Data
+    tag: 'High-dimensional Data'
   - name: jawDROP
-    tag: Augmenting RO Routine Care with Real-time Data
+    tag: 'Augmenting RO Routine Care with Real-time Data'
   - name: DISCO
     tag: 'Rethinking Palliative RT'
   - name: RACER
