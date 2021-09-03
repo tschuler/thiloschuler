@@ -27,7 +27,7 @@ knitr::opts_chunk$set(
 
 ---
 class: middle
-background-image: url("RANZCR_Presentation_ASM_2021_BG.png")
+background-image: url("img/RANZCR_Presentation_ASM_2021_BG.png")
 background-size: cover
 <br>
 # .white-col[Driving innovation through electronic PROMs in Radiation Oncology routine care]
@@ -41,7 +41,7 @@ background-size: cover
 ---
 layout: true
 
-background-image: url("Precise_NSCC_logo_353_100.jpg")
+background-image: url("img/Precise_NSCC_logo_353_100.jpg")
 background-size: 200px
 background-position: 96% 4%
 
@@ -121,47 +121,19 @@ translation']
 ]
 
 ---
-background-image: url('slide14.png')
+background-image: url('img/slide4.png')
 background-size: cover
 class: left, top
 
 ---
-background-image: url('full_team.png')
+background-image: url('img/full_team.png')
 background-size: cover
 class: left, top
 
 # Clinical GU ePRO team @ NSCC
 
 ---
-exclude: true
-background-image: url("Precise_NSCC_logo_353_100.jpg"), url("REDCap.png")
-background-size: 200px, 400px
-background-position: 96% 4%, 90% 92%
-# Journey
-
-### 2016
-.pull-left[
-* **Onsite ePRO** collection (iPad in waiting room) 
-* Completion rates (35-59%) were **promising but insufficent**
-* Patients' ability to complete ePRO was rarely an issue!
-]
-.pull-right[
-**Main barriers:**
-  * Logistical (unavailable devices / volunteers)
-  * Suboptimal timing
-  * Missing EMR integration
-]
-
-### 2017
-* **Offsite ePRO**: Unsuccessful search for commercial vendor (survey designer and/or API) 
-
-### 2018
-
-* Re-Discovery of **REDCap** as "ePRO survey engine" 
-* Major upgrade of in-house research information system (intranet-based web app)
-* Integration of REDCap for ePRO collection
----
-background-image: url("Precise_NSCC_logo_353_100.jpg"), url("ir_toolkit_identity_300_who.png")
+background-image: url("img/Precise_NSCC_logo_353_100.jpg"), url("img/ir_toolkit_identity_300_who.png")
 background-size: 200px, 300px
 background-position: 96% 4%, 80% 60%
 
@@ -182,21 +154,21 @@ background-position: 96% 4%, 80% 60%
 
 
 ---
-background-image: url('ProDB_ePRO.PNG')
+background-image: url('img/ProDB_ePRO.PNG')
 background-size: cover
 class: left, top
 
 ---
-background-image: url('REDCap_Pt.PNG')
+background-image: url('img/REDCap_Pt.PNG')
 background-size: contain
 background-position: 50% 0%
 
 ---
 # REDCap as ePRO Survey Engine
-<center><img src="REDCap_ePRO_survey_engine_1400.png" alt="drawing" width="900"/></center>
+<center><img src="img/REDCap_ePRO_survey_engine_1400.png" alt="drawing" width="900"/></center>
 
 ---
-background-image: url("Precise_NSCC_logo_353_100.jpg"), url("requite_black.png")
+background-image: url("img/Precise_NSCC_logo_353_100.jpg"), url("img/requite_black.png")
 background-size: 200px, 300px
 background-position: 96% 4%, 50% 70%
 # Surveys and Frequencies in our GU Practice
@@ -206,7 +178,7 @@ background-position: 96% 4%, 50% 70%
 * **Peri-treatment** (abridged; weekly ePRO during and in first month post RT)
 * **Follow-up** (6 monthly ePRO)
 ---
-background-image: url("Precise_NSCC_logo_353_100.jpg"), url("completion_plot2.png")
+background-image: url("img/Precise_NSCC_logo_353_100.jpg"), url("img/completion_plot2.png")
 background-size: 200px, 900px
 background-position: 96% 4%, 50% 90%
 
@@ -226,7 +198,7 @@ completion_output %>%
 
 ```
 ---
-background-image: url("Precise_NSCC_logo_353_100.jpg"), url("duration_plot2.png")
+background-image: url("img/Precise_NSCC_logo_353_100.jpg"), url("img/duration_plot2.png")
 background-size: 200px, 900px
 background-position: 96% 4%, 50% 90%
 
@@ -268,9 +240,9 @@ duration_output %>%
 * Slides and **video** here: [URL]
 
 ---
-background-image: url("Precise_NSCC_logo_353_100.jpg"), url("qr_dashboard.png")
-background-size: 200px, 200px
-background-position: 96% 4%, 23% 90%
+background-image: url("img/Precise_NSCC_logo_353_100.jpg"), url("img/qr_dashboard.png"), url("img/qr_crisp.png")
+background-size: 200px, 200px, 200px
+background-position: 96% 4%, 23% 90%, 77% 90%
 
 class: center, middle 
 
@@ -279,12 +251,11 @@ class: center, middle
 ### Routine care ePROs are .highlight[challenging on multiple levels], but definitely .highlight[feasible] and well worth the effort as they open .highlight[exciting opportunities] to improve the care for our patients. 
 
 .pull-left[
-#### Link to ePRO Dashboard: [https://thiloschuler.shinyapps.io/prospector-asm21](https://thiloschuler.shinyapps.io/prospector-asm21/) 
+#### Link to **ePRO Dashboard**: [https://thiloschuler.shinyapps.io/prospector-asm21](https://thiloschuler.shinyapps.io/prospector-asm21/) 
 ]
 
 .pull-right[
-#### Link to ePRO-driven referral process (slides & VIDEO):
-[URL] & [QR code]
+#### Link to ePRO-driven referral process incl **video**): [https://thiloschuler.me/project/epro-driven-crisp](https://thiloschuler.me/project/epro-driven-crisp)
 ]
 <br>
 ## Thank you <br> 🙏

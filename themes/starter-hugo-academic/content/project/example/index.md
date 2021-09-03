@@ -1,4 +1,6 @@
 ---
+draft: true
+expiryDate: "1980-01-01T00:00:00Z"
 title: Example Project
 summary: An example of using the in-built project page.
 tags:

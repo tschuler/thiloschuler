@@ -20,7 +20,7 @@ subtitle: 'Filter by **data type** involved or by the two main **digital health 
 - Data-driven Routine Radiation Oncology Practice (**jawDROP**)<br>
 - Digitally-enabled Interdisciplinary Supportive Care in Oncology (**DISCO**)<br>
 <br>
-Most projects built on the **RACER** digital health platform.'
+Most projects built on the **RACER** digital health platform for care coordination and managment of PGD via electronic patient-reported outome (ePRO) surveys and wearable sensors.'
 
 
 content:
@@ -47,7 +47,7 @@ content:
   - name: jawDROP
     tag: 'Augmenting RO Routine Care with Real-time Data'
   - name: DISCO
-    tag: 'Rethinking Palliative RT'
+    tag: 'Digitally-enabled Interdisciplinary Supportive Care in Oncology'
   - name: RACER
     tag: 'RACER platform'
 
