@@ -50,8 +50,6 @@ title: Thilo Schuler MD
 
 Thilo Schuler is a Radiation Oncology doctor in his final year of advanced training at the Northern Sydney Cancer Centre. He is also undertaking a PhD at the Centre for Health Informatics located in the Australian Institute of Health Innovation at Macquarie University. His PhD supervisors are Prof Enrico Coiera, Prof Thomas Eade and A/Prof Blanca Gallego.
 
-His research interests relate to Digital Health with a focus on patient-generated data and routine care translation in particular around digitally-enhanced approaches in GU and Palliative Radiation Oncology.
-
 His research interests relate to Digital Health with a focus on patient-generated data and routine care translation. In particular he is  interested in digitally-enhanced approaches in GU and palliative Radiation Oncology and more broadly to improve interdiscipllinary supportive care of cancer patients.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/tschuler_cvTODO.pdf" "newtab" >}}resumé (TODO){{< /staticref >}}.
