@@ -14,8 +14,8 @@ links:
   url: '/slides/RANZCR2021/PROMS_Innovations_RANZCR_ASM_2021.html'
 - name: 'Slides (PDF)'
   url: '/slides/RANZCR2021/PROMS_Innovations_RANZCR_ASM_2021.pdf'
-- name: 'Interactive Dashboard (soon)'
-  url: '/slides/RANZCR2021/PROMS_Innovations_RANZCR_ASM_2021.pdf'
+- name: 'Interactive Dashboard'
+  url: 'https://thiloschuler.shinyapps.io/prospector-asm21'
 # slides: example
 summary: Project to establish routinely-collected electronic patient-reported outcomes (ePROs) as a key foundational element underpinning innovations in care and clinical research of radiotherapy (RT) patients with prostate cancer. 
 tags:

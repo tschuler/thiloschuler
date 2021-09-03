@@ -237,7 +237,7 @@ duration_output %>%
 
 #### Innovative care pathways 
 * Recent presentation on **ePRO**-driven referral pathway to community services
-* Slides and **video** here: [URL]
+* Slides and **video** here: [https://thiloschuler.me/project/epro-driven-crisp](https://thiloschuler.me/project/epro-driven-crisp)
 
 ---
 background-image: url("img/Precise_NSCC_logo_353_100.jpg"), url("img/qr_dashboard.png"), url("img/qr_crisp.png")
