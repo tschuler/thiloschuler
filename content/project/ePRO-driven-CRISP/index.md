@@ -14,7 +14,8 @@ links:
   url: '/slides/scc2021'
 - name: 'Slides (PDF)'
   url: '/pdf/SCC2021_Paper_79_ePRO_screening_Schuler_et_al-SLIDES.pdf'
-- name: 'Video @ SCC 2021 (soon)'
+- name: 'Video @ SCC 2021'
+  url: 'https://www.youtube.com/watch?v=rF4oqa2t1oE'
 #  url: '/pdf/SCC2021_Paper_79_ePRO_screening_Schuler_et_al-SLIDES.pdf'
 #slides: SCC2021
 summary: This collaborative project between the [Radiation Oncology department at Northern Sydney Cancer Centre](https://www.nslhd.health.nsw.gov.au/RadiationOncology/Pages/default.aspx) and the community support organisation [Canteen](https://www.canteen.org.au/) developed and successfully implemented an ePRO-driven process to identify and offer referral to Canteen's services (psychosocial support for families) and the Quitline service (smoking cessation).
