@@ -1,5 +1,5 @@
 ---
-bio: My research revolves around Digital Health with a focus on patient-generated data and routine care translation. In particular I am interested in digitally-enhanced approaches in GU and palliative Radiation Oncology and more broadly in improving interdisciplinary support of cancer patients.
+title: "Thilo Schuler MD"
 education:
   courses:
   - course: PhD candidate in Clinical Informatics
@@ -11,8 +11,8 @@ education:
   - course: Medicine
     institution: University of Freiburg, Germany
     year: 2008
-email: "thilo.schuler@health.nsw.gov.au"
-highlight_name: false
+email: thilo.schuler@health.nsw.gov.au
+highlight_name: no
 interests:
 - Digital Health
 - Patient-generated Data (ePROs & wearables)
@@ -28,9 +28,9 @@ role: Radiation Oncology Doctor
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:thilo.schuler@health.nsw.gov.au"
+  link: mailto:thilo.schuler@health.nsw.gov.au
 - display:
-    header: true
+    header: yes
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
@@ -44,8 +44,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://au.linkedin.com/in/thiloschuler
-superuser: true
-title: Thilo Schuler MD
+superuser: yes
+bio: My research revolves around Digital Health with a focus on patient-generated
+  data and routine care translation. In particular I am interested in digitally-enhanced
+  approaches in GU and palliative Radiation Oncology and more broadly in improving
+  interdisciplinary support of cancer patients.
 ---
 
 Thilo Schuler is a Radiation Oncology doctor in his final year of advanced training at the Northern Sydney Cancer Centre. He is also undertaking a PhD at the Centre for Health Informatics located in the Australian Institute of Health Innovation at Macquarie University. His PhD supervisors are Prof Enrico Coiera, Prof Thomas Eade and A/Prof Blanca Gallego.
