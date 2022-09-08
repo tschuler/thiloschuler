@@ -55,4 +55,4 @@ Thilo Schuler is a Radiation Oncology doctor in his final year of advanced train
 
 His research interests relate to Digital Health with a focus on patient-generated data and routine care translation. In particular he is  interested in digitally-enhanced approaches in GU and palliative Radiation Oncology and more broadly in improving interdisciplinary support of cancer patients.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/tschuler_cvTODO.pdf" "newtab" >}}resumé (TODO){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/Short_CV_Thilo_Schuler.pdf" "newtab" >}}resumé{{< /staticref >}}.

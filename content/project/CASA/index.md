@@ -12,10 +12,8 @@ links:
 links:
 - name: 'Letter-to-editor (Journal PallMed)'
   url: '/pdf/2022-JournalofPalliativeMedicine-SCHULER_LetterEditorSleepDisturbancesPeopleAdvanced.pdf'
-- name: 'Full manuscript (submitted)'
-  #url: ''
 # slides: example
-summary: 'CASA is a pilot project to demonstrate feasiblity of wearable sensor-triggered ecological momentary assessments and electronic patient-reported outcomes in a home-based palliative care setting. We collected data from patients and their primary caregivers.'
+summary: 'CASA is a pilot project to test the feasiblity of wearable sensor-triggered ecological momentary assessments and electronic patient-reported outcomes in a home-based palliative care setting. We collected data from patients and their primary caregivers.'
 tags:
 - 'Patient-generated Data'
 - 'Wearables'
@@ -27,5 +25,7 @@ url_slides: ""
 url_video: ""
 ---
 
-CASA is a pilot project to demonstrate feasiblity of wearable sensor-triggered ecological momentary assessments and electronic patient-reported outcomes in a home-based palliative care setting. We collected data from patients and their primary caregivers.
+CASA is a pilot project to test the feasiblity of wearable sensor-triggered ecological momentary assessments and electronic patient-reported outcomes in a home-based palliative care setting. We collected data from patients and their primary caregivers.
+
+The full manuscript has been submitted.
 
