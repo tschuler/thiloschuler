@@ -11,7 +11,7 @@ links:
   url: https://twitter.com/th1loz
 links:
 - name: 'Poster (PDF)'
-  url: '/pdf/FROGG_2022_Poster-Schuler-Final.pdf'
+  url: '/pdf/FROGG_2022_Poster-Schuler.pdf'
 # slides: example
 summary: In this project we are exploring **longitudinal ePRO analysis** methods and **visualisation** techniques that can **capture ToxT** and provide meaningful benefit to routine care treatment decisions, clinical research and shared decision making with our patients.
 tags:
