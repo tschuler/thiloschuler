@@ -10,9 +10,9 @@ links:
   name: Follow
   url: https://twitter.com/th1loz
 links:
-- name: 'Letter-to-editor (Journal PallMed)'
-  url: 'https://www.liebertpub.com/doi/epdf/10.1089/jpm.2022.0125 [PDF]'
-- name: 'Full Paper (Journal PallMed) [Pubmed]'
+- name: 'Letter-to-editorm [PDF]'
+  url: 'https://www.liebertpub.com/doi/epdf/10.1089/jpm.2022.0125'
+- name: 'Full Paper [Pubmed]'
   url: 'https://pubmed.ncbi.nlm.nih.gov/37134212/'
 # slides: example
 summary: 'CASA is a pilot project to test the feasiblity of wearable sensor-triggered ecological momentary assessments and electronic patient-reported outcomes in a home-based palliative care setting. We collected data from patients and their primary caregivers.'
