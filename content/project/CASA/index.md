@@ -39,6 +39,6 @@ We also published a [letter-to-the-editor](https://www.liebertpub.com/doi/epdf/1
 
 Building on the CASA feasibility study we are in the process of setting up a study to collect wearable data from patients and caregivers at a much larger scale. We plan to use artificial intelligence (AI) methods to identify __“yellow flag” patterns__. If successful, we would then test a proactive support intervention triggered by “yellow flags” in a multi-site, randomised trial.
 
-The following figure demonstrates an example “yellow flag” pattern captured. This and all other collected EMA responses can be viewed in an __interactive app__ at https://thiloschuler.shinyapps.io/casa-pilot/. For data privacy reason a dynamic random time shift is applied. 
+The following figure demonstrates an example “yellow flag” pattern captured. This and all other collected EMA responses can be viewed in an __interactive app__ at https://thiloschuler.shinyapps.io/casa-pilot/. For data privacy reasons a dynamic random time shift is applied. 
 
 ![Annotated screenshot from interactive app demonstrating an exmple "yellow flag" pattern ](/media/yellow_flag_example_caption.png)
