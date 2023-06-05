@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/th1loz
 links:
-- name: 'Main paper'
+- name: 'Main paper [via RG]'
   url: 'https://www.researchgate.net/publication/370495823_Wearable-Triggered_Ecological_Momentary_Assessments_Are_Feasible_in_People_With_Advanced_Cancer_and_Their_Family_Caregivers_Feasibility_Study_from_an_Outpatient_Palliative_Care_Clinic_at_a_Cancer_Cent'
 - name: 'Letter-to-editor [PDF]'
   url: 'https://www.liebertpub.com/doi/epdf/10.1089/jpm.2022.0125'
@@ -33,7 +33,10 @@ CASA is a feasibility study to explore the use of wearable sensor-triggered ecol
 
 We wrote a blog about our motivation behind CASA: [Technology keeping palliative care patients at home – the CASA aspiration](https://www.caresearch.com.au/TabId/6568/ArtMID/17907/ArticleID/4414/Technology-keeping-palliative-care-patients-at-home-the-CASA-aspiration.aspx).
 
-The full manuscript entitled 'Wearable-triggered ecological momentary assessments are feasible in people with advanced cancer and their family caregivers: Feasibility study from an outpatient palliative care clinic at a cancer centre' has been published in the *Journal of Palliative Medicine* in March 2023 (https://pubmed.ncbi.nlm.nih.gov/37134212/).
+The full paper entitled 'Wearable-triggered ecological momentary assessments are feasible in people with advanced cancer and their family caregivers: Feasibility study from an outpatient palliative care clinic at a cancer centre' has been published in the *Journal of Palliative Medicine* in March 2023:
+* [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/37134212/)
+* [Research Gate (RG) link](https://www.researchgate.net/publication/370495823_Wearable-Triggered_Ecological_Momentary_Assessments_Are_Feasible_in_People_With_Advanced_Cancer_and_Their_Family_Caregivers_Feasibility_Study_from_an_Outpatient_Palliative_Care_Clinic_at_a_Cancer_Cent)
+* If need a private copy request by RG (preferred) or send me an email
 
 We also published a [letter-to-the-editor](https://www.liebertpub.com/doi/epdf/10.1089/jpm.2022.0125) in the same journal focusing on the sleep aspects.
 
