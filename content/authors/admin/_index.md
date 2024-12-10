@@ -1,5 +1,5 @@
 ---
-title: "Thilo Schuler MD"
+title: "Thilo Schuler MD MHInf"
 education:
   courses:
   - course: PhD candidate in Clinical Informatics
@@ -44,15 +44,15 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://au.linkedin.com/in/thiloschuler
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Thilo-Schuler
 superuser: yes
-bio: My research revolves around Digital Health with a focus on patient-generated
-  data and routine care translation. In particular I am interested in digitally-enhanced
-  approaches in GU and palliative Radiation Oncology and more broadly in improving
-  interdisciplinary support of cancer patients.
+bio: I am a practicing medical doctor with 10 years’ experience in Radiation Oncology and long track record of successful implementation of digital health projects to drive innovation in clinical research and practice. My passion to improve cancer care with digital health has led me to pursue a PhD. It focuses on the translation of patient-generated health data in routine oncology care to optimally support cancer patients and their families.
 ---
 
-Thilo Schuler is a Radiation Oncology doctor in his final year of advanced training at the Northern Sydney Cancer Centre. He is also undertaking a PhD at the Centre for Health Informatics located in the Australian Institute of Health Innovation at Macquarie University. His PhD supervisors are Prof Enrico Coiera, Prof Thomas Eade and A/Prof Blanca Gallego.
+Thilo Schuler is a Radiation Oncology doctor at Royal North Shore Hospital's Northern Sydney Cancer Centre. He is also undertaking a PhD at the Centre for Health Informatics located in the Australian Institute of Health Innovation at Macquarie University. His PhD supervisors are A/Prof Blanca Gallego, Prof Thomas Eade and Prof Enrico Coiera .
 
 His research interests relate to Digital Health with a focus on patient-generated data and routine care translation. In particular he is  interested in digitally-enhanced approaches in GU and palliative Radiation Oncology and more broadly in improving interdisciplinary support of cancer patients.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/Short_CV_Thilo_Schuler.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/Short_CV_Thilo_Schuler.pdf" "newtab" >}}CV{{< /staticref >}}.
