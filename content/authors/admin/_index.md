@@ -35,6 +35,10 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/th1loz
+- icon: bluesky
+  icon_pack: fab
+  label: Or increasingly on Bluesky
+  link: https://bsky.app/profile/thilo-schuler.bsky.social
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com.au/citations?user=hiSI_CkAAAAJ&hl=en
@@ -48,7 +52,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Thilo-Schuler
 superuser: yes
-bio: I am a practicing medical doctor with 10 years’ experience in Radiation Oncology and long track record of successful implementation of digital health projects to drive innovation in clinical research and practice. My passion to improve cancer care with digital health has led me to pursue a PhD. It focuses on the translation of patient-generated health data in routine oncology care to optimally support cancer patients and their families.
+  bio: I am a practicing medical doctor with 10 years’ experience in Radiation Oncology and long track record of successful implementation of digital health projects to drive innovation in clinical research and practice. My passion to improve cancer care with digital health has led me to pursue a PhD. It focuses on the translation of patient-generated health data in routine oncology care to optimally support cancer patients and their families.
 ---
 
 Thilo Schuler is a Radiation Oncology doctor at Royal North Shore Hospital's Northern Sydney Cancer Centre. He is also undertaking a PhD at the Centre for Health Informatics located in the Australian Institute of Health Innovation at Macquarie University. His PhD supervisors are A/Prof Blanca Gallego, Prof Thomas Eade and Prof Enrico Coiera .

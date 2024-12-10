@@ -31,7 +31,9 @@ url_video: ""
 
 CASA is a feasibility study to explore the use of wearable sensor-triggered ecological momentary assessments and electronic patient-reported outcomes in a home-based palliative care setting. We collected data from patients and their primary caregivers. As the long-term aspiration is to enable palliative care patients to stay at home longer, we called this study CASA (Continuous Assessment and Support Alerts).
 
-We wrote a blog about our motivation behind CASA: [Technology keeping palliative care patients at home – the CASA aspiration](https://www.caresearch.com.au/TabId/6568/ArtMID/17907/ArticleID/4414/Technology-keeping-palliative-care-patients-at-home-the-CASA-aspiration.aspx).
+We wrote a blog about our motivation behind CASA and gave a ~30min seminar: 
+* Blog: [Technology keeping palliative care patients at home – the CASA aspiration](https://www.caresearch.com.au/TabId/6568/ArtMID/17907/ArticleID/4414/Technology-keeping-palliative-care-patients-at-home-the-CASA-aspiration.aspx)
+* Seminar to Flinders University: [Video](https://blogs.flinders.edu.au/repadd/2023/08/15/wearables-and-epros-in-community-palliative-care-findings-from-the-casa-feasibility-study/)
 
 The full paper entitled 'Wearable-triggered ecological momentary assessments are feasible in people with advanced cancer and their family caregivers: Feasibility study from an outpatient palliative care clinic at a cancer centre' has been published in the *Journal of Palliative Medicine* in March 2023:
 * [Pubmed link](https://pubmed.ncbi.nlm.nih.gov/37134212/)
