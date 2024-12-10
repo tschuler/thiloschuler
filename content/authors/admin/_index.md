@@ -35,10 +35,6 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/th1loz
-- icon: bluesky
-  icon_pack: fab
-  label: Or increasingly on Bluesky
-  link: https://bsky.app/profile/thilo-schuler.bsky.social
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com.au/citations?user=hiSI_CkAAAAJ&hl=en

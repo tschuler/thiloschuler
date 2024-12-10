@@ -21,7 +21,7 @@ links:
 - name: 'Poster @ RANZCR 2021'
   url: '/pdf/RANZCR21_ePROs_pallRT_poster.pdf'
 # slides: example
-summary: This project aimed to establish more modern and patient-centred palliative radiotherapy (RT). It clinically implemented a simulation avoidance appraoch, which we called simulation-free RT (SFRT), which uses standard image-guidance (IGRT) equipment and we started routine collection of electronic patient-reported outcomes (ePROs) in this challenging patient group.
+summary: This project aimed to establish a more modern and patient-centred palliative radiotherapy (RT) paradigm. It clinically implemented a simulation avoidance approach, which we called simulation-free RT (SFRT). It uses standard image-guidance (IGRT) equipment and we monitored patient outcomes via routine collection of electronic patient-reported outcomes (ePROs).
 tags:
 - 'Patient-generated Data'
 - 'Rethinking Palliative RT'

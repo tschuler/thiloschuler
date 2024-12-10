@@ -5,11 +5,6 @@ image:
   caption: 
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/th1loz
-links:
 - name: 'Main paper [via RG]'
   url: 'https://www.researchgate.net/publication/370495823_Wearable-Triggered_Ecological_Momentary_Assessments_Are_Feasible_in_People_With_Advanced_Cancer_and_Their_Family_Caregivers_Feasibility_Study_from_an_Outpatient_Palliative_Care_Clinic_at_a_Cancer_Cent'
 - name: 'Letter-to-editor [PDF]'
