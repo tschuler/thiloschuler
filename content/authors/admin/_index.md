@@ -28,7 +28,7 @@ role: Radiation Oncology Doctor
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:thilo.schuler@health.nsw.gov.au
+  link: mailto:thilo.schuler@gmail.com
 - display:
     header: yes
   icon: twitter
